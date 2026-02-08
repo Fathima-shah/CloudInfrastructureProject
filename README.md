@@ -28,14 +28,15 @@ This project demonstrates a complete cloud infrastructure setup using Microsoft 
    - Exported full ARM template (`CloudInfrastructureProject.json`) for redeployment
 
 ## Screenshots
-- ![Web VM](images/created_webVM.png)
-- ![App VM](images/created_appVM.png)
-- ![Application Gateway](images/created_appGateway.png)
-- ![Monitoring Dashboard App](images/appVM_monitor.png)
-- ![Monitoring Dashboard Web](images/webVM_monitor.png)
-- ![WebVM Backup](images/webVM_Backup.png)
-- ![AppVM Backup](images/appVM_backup.png)
-- ![RBAC](images/RBAC.png)
+- ![Web VM](created_webVM.png)
+- ![App VM](created_appVM.png)
+- ![Application Gateway](created_appGateway.png)
+- ![Monitoring Dashboard App](appVM_monitor.png)
+- ![Monitoring Dashboard Web](webVM_monitor.png)
+- ![WebVM Backup](webVM_Backup.png)
+- ![AppVM Backup](appVM_backup.png)
+- ![RBAC](RBAC.png)
+
 
 
 
